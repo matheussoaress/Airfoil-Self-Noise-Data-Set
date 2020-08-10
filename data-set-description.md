@@ -4,8 +4,9 @@
 
 **Abstract**: NASA data set, obtained from a series of aerodynamic and acoustic tests of two and three-dimensional airfoil blade sections conducted in an anechoic wind tunnel.
 
-| Data Set Characteristics: | Multivariate |
+| - | Data info |
 |--|--|
+| **Data Set Characteristics:** | Multivariate |
 | **Attribute Characteristics:** | Real |
 | **Associated Tasks:** | Regression |
 | **Number of Instances:** | 1503 |
